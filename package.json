@@ -1,6 +1,6 @@
 {
-  "name": "install-babel-deps",
-  "version": "1.0.0",
+  "name": "babel-install-deps",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "bin": {
-    "install-babel-deps": "./index.js"
+    "babel-install-deps": "./index.js"
   }
 }
