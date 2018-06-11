@@ -1,13 +1,14 @@
 {
   "name": "babel-install-deps",
-  "version": "1.0.1",
-  "description": "",
+  "version": "1.0.3",
+  "description": "Automatically install babel dependencies with yarn or npm",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["babel","install","presets","plugins"],
+  "author": "Zane Hitchcox",
+  "github": "github.com/zwhitchcox/babel-install-deps",
   "license": "ISC",
   "bin": {
     "babel-install-deps": "./index.js"
